@@ -15,6 +15,7 @@ const Login = () => {
       </div>
       <div className="bg-muted relative hidden lg:block -mr-8">
         <Image
+          priority
           width={600}
           height={600}
           src={url}
